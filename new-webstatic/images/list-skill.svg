@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69" height="120" viewBox="0 0 69 120">
+  <defs>
+    <clipPath id="clip-list-skill">
+      <rect width="69" height="120"/>
+    </clipPath>
+  </defs>
+  <g id="list-skill" clip-path="url(#clip-list-skill)">
+    <path id="Path_363" data-name="Path 363" d="M285,521.548V419.861a9.1,9.1,0,0,1,15.567-6.463l50.8,50.889a9.1,9.1,0,0,1,0,12.836l-50.8,50.889A9.1,9.1,0,0,1,285,521.548Z" transform="translate(-285 -410.704)" fill="#28a8e0"/>
+  </g>
+</svg>

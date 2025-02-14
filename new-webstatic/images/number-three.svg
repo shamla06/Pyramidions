@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <filter id="_01-blue" x="2" y="-44" width="147" height="227" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#fff" flood-opacity="0.278"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-number-three">
+      <rect width="150" height="150"/>
+    </clipPath>
+  </defs>
+  <g id="number-three" clip-path="url(#clip-number-three)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#_01-blue)">
+      <text id="_01-blue-2" data-name="01-blue" transform="translate(2 131)" fill="#fff" font-size="147" font-family="Oswald-Regular, Oswald"><tspan x="0" y="0">03</tspan></text>
+    </g>
+  </g>
+</svg>

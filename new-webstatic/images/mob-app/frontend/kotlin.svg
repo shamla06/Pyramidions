@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="513" viewBox="0 0 512 513">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.168" y1="0.919" x2="0.762" y2="-0.011" gradientUnits="objectBoundingBox">
+      <stop offset="0.108" stop-color="#c757bc"/>
+      <stop offset="0.173" stop-color="#cd5ca9"/>
+      <stop offset="0.492" stop-color="#e8744f"/>
+      <stop offset="0.716" stop-color="#f88316"/>
+      <stop offset="0.823" stop-color="#ff8900"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.319" y1="1.359" x2="0.773" y2="0.456" gradientUnits="objectBoundingBox">
+      <stop offset="0.296" stop-color="#00afff"/>
+      <stop offset="0.694" stop-color="#5282ff"/>
+      <stop offset="1" stop-color="#945dff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-0.024" y1="0.523" x2="0.61" y2="-0.08" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-kotlin">
+      <rect width="512" height="513"/>
+    </clipPath>
+  </defs>
+  <g id="kotlin" clip-path="url(#clip-kotlin)">
+    <rect width="512" height="513" fill="#fff"/>
+    <g id="_Group_" data-name="&lt;Group&gt;" transform="translate(-140.146 353.639)">
+      <path id="_Compound_Path_" data-name="&lt;Compound Path&gt;" d="M187.058,6.065h26.716V59.15L263.042,6.065h32.267L245.868,57.588l51.7,69.913H265.47L227.826,75.8,213.774,90.376V127.5H187.058Z" transform="translate(0 -0.86)" fill="#000400"/>
+      <path id="_Compound_Path_2" data-name="&lt;Compound Path&gt;" d="M299.286,85.944V85.6c0-26.717,21.512-48.4,50.483-48.4,28.8,0,50.136,21.339,50.136,48.054V85.6c0,26.716-21.512,48.4-50.483,48.4C320.625,134,299.286,112.661,299.286,85.944Zm74.6,0V85.6c0-13.706-9.888-25.676-24.461-25.676-15.093,0-24.114,11.622-24.114,25.328V85.6c0,13.7,9.888,25.674,24.461,25.674C364.862,111.273,373.883,99.65,373.883,85.944Z" transform="translate(-15.92 -5.277)" fill="#000400"/>
+      <path id="_Compound_Path_3" data-name="&lt;Compound Path&gt;" d="M423.185,100.272V56.208h-11.1V33.656h11.1V9.888h26.369V33.656h21.859V56.208H449.554V95.936c0,6.071,2.6,9.021,8.5,9.021a26.8,26.8,0,0,0,13.01-3.3v21.165c-5.551,3.3-11.969,5.378-20.817,5.378C434.115,128.2,423.185,121.783,423.185,100.272ZM478.981,0H505.35V126.64H478.981Zm35.9,0h27.756V23.42H514.882Zm.7,33.656h26.368V126.64H515.576Zm36.4,0h26.369V46.839c6.072-7.807,13.879-14.919,27.236-14.919,19.951,0,31.574,13.185,31.574,34.523v60.2H610.786V74.77c0-12.49-5.9-18.909-15.961-18.909s-16.48,6.419-16.48,18.909v51.87h-26.37Z" transform="translate(-31.921)" fill="#000400"/>
+    </g>
+    <path id="Path_1" data-name="Path 1" d="M117.745,5.994,0,129.817V240.511L117.574,122.729,234.517,5.994H117.745Z" transform="translate(138.742 46.483)" fill="url(#linear-gradient)"/>
+    <path id="_Path_" data-name="&lt;Path&gt;" d="M0,194.2,117.574,76.42,234.517,194.2H0Z" transform="translate(138.742 92.793)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_2" data-name="Path 2" d="M0,5.994H117.745L0,129.817Z" transform="translate(138.742 46.483)" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>

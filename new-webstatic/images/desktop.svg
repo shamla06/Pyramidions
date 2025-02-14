@@ -1,0 +1,27 @@
+<svg id="desktop" xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480">
+  <g id="Group_2" data-name="Group 2">
+    <g id="Group_1" data-name="Group 1">
+      <path id="Path_1" data-name="Path 1" d="M407.648,40H72A32,32,0,0,0,40,72V288a32,32,0,0,0,32,32H407.648a32,32,0,0,0,32-32V72A32,32,0,0,0,407.648,40Zm16,248a16,16,0,0,1-16,16H72a16,16,0,0,1-16-16V72A16,16,0,0,1,72,56H407.648a16,16,0,0,1,16,16Z" fill="#28a8e0"/>
+    </g>
+  </g>
+  <g id="Group_4" data-name="Group 4">
+    <g id="Group_3" data-name="Group 3">
+      <path id="Path_2" data-name="Path 2" d="M416,0H64A64.072,64.072,0,0,0,0,64V320a64.072,64.072,0,0,0,64,64H181.392L169.96,424H116a28,28,0,0,0,0,56H364a28,28,0,0,0,0-56H310.04l-11.432-40H416a64.072,64.072,0,0,0,64-64V64A64.072,64.072,0,0,0,416,0ZM364,440a12,12,0,0,1,0,24H116a12,12,0,0,1,0-24ZM186.608,424l11.432-40h83.92l11.432,40ZM464,320a48.047,48.047,0,0,1-48,48H64a48.047,48.047,0,0,1-48-48V64A48.047,48.047,0,0,1,64,16H416a48.047,48.047,0,0,1,48,48Z" fill="#28a8e0"/>
+    </g>
+  </g>
+  <g id="Group_6" data-name="Group 6">
+    <g id="Group_5" data-name="Group 5">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="16" height="16" transform="translate(232 336)" fill="#28a8e0"/>
+    </g>
+  </g>
+  <g id="Group_8" data-name="Group 8">
+    <g id="Group_7" data-name="Group 7">
+      <path id="Path_3" data-name="Path 3" d="M96.144,80A16.161,16.161,0,0,0,80,96.144V144H96l.144-48H216V80Z" fill="#28a8e0"/>
+    </g>
+  </g>
+  <g id="Group_10" data-name="Group 10">
+    <g id="Group_9" data-name="Group 9">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="16" height="16" transform="translate(232 80)" fill="#28a8e0"/>
+    </g>
+  </g>
+</svg>

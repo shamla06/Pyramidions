@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="513" viewBox="0 0 512 513">
+  <defs>
+    <clipPath id="clip-flutter">
+      <rect width="512" height="513"/>
+    </clipPath>
+  </defs>
+  <g id="flutter" clip-path="url(#clip-flutter)">
+    <rect width="512" height="513" fill="#fff"/>
+    <g id="flutter-logo" transform="translate(137.71 40.103)">
+      <path id="Path_3" data-name="Path 3" d="M101.951,178.739,22.84,100.147,66.563,55.66,189.887,178.739Z" transform="translate(46.302 113.836)" fill="#02539a" fill-rule="evenodd"/>
+      <g id="Group_2" data-name="Group 2" transform="translate(0.29 0.22)">
+        <path id="Path_4" data-name="Path 4" d="M22.52,122.979,100.929,44.57h88.149L67.1,166.55Z" transform="translate(45.355 90.844)" fill="rgba(69,209,253,0.85)" fill-rule="evenodd"/>
+        <path id="Path_5" data-name="Path 5" d="M.29,145.649l44.517,44.487L234.723.22H146.116Z" transform="translate(-0.29 -0.22)" fill="#45d1fd" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <text id="cordova" transform="translate(66 461)" fill="#45d1fd" font-size="136" font-family="BrandonGrotesque-Black, Brandon Grotesque" font-weight="800"><tspan x="0" y="0">Flutter</tspan></text>
+  </g>
+</svg>

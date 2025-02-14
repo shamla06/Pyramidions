@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="513" viewBox="0 0 512 513">
+  <defs>
+    <clipPath id="clip-cordova">
+      <rect width="512" height="513"/>
+    </clipPath>
+  </defs>
+  <g id="cordova" clip-path="url(#clip-cordova)">
+    <rect width="512" height="513" fill="#fff"/>
+    <path id="cordova-2" data-name="cordova" d="M298.414,313.336H245.26l3.73-44.763H222.878l-3.73,44.763H109.108l-3.731-44.763H79.267L83,313.336H29.84L0,119.365,74.6,0H253.652l74.6,119.365ZM238.732,59.682h-47.96l3.2,22.382H134.286l3.2-22.382H89.524L59.682,119.366,74.6,238.73H253.652l14.922-119.365L238.732,59.682ZM212.62,199.117c-4.12,0-7.46-12.425-7.46-27.752s3.34-27.753,7.46-27.753,7.46,12.425,7.46,27.753S216.74,199.117,212.62,199.117Zm-94.186,2.313c-4.12,0-7.461-12.425-7.461-27.753s3.342-27.752,7.461-27.752,7.46,12.425,7.46,27.752S122.554,201.43,118.434,201.43Z" transform="translate(91.872 39.514)" fill="#444"/>
+    <text id="cordova-3" data-name="cordova" transform="translate(46 469)" fill="#444" font-size="136" font-family="BrandonGrotesque-Black, Brandon Grotesque" font-weight="800"><tspan x="0" y="0">cordova</tspan></text>
+  </g>
+</svg>

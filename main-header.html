@@ -1,0 +1,179 @@
+<style>
+  .mega-ul li {
+    float: left;
+    width: 100%;
+    padding: 3px 0;
+}
+    .mega-ul li a {
+    position: relative;
+    float: left;
+    width: auto;
+    padding: 1px 0;
+    margin-bottom: 0;
+    }
+    .mega-ul li a::after {
+    content: "";
+    position: absolute;
+    height: 4px;
+    width: 0;
+    left: 0;
+    right: 0;
+    bottom: -2px;
+    background-color: #28a8e0;
+    transition: .3s ease-in-out;
+    transform: translate(0, 0) translateZ(0);
+    -webkit-transform: translate(0, 0) translateZ(0);
+}
+.mega-ul li:hover a::after {
+    width: 100% !important;
+}
+.mega-ul li {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.dropdown-toggle::after {
+    margin-left: .455em;
+    vertical-align: 0.09em;
+}
+@media (max-width: 575px) {
+    .welcome_section {
+        background: #03032b !important;
+    }
+}
+@media (min-width: 768px) {
+    .wrapper.home-page-wrapper .container-fluid {
+        width: 92% !important;
+    }
+}
+.container-fluid {
+    width: 92%;
+    max-width: 1350px;
+}
+.megamenu p, .megamenu-company p {
+    color: #000000;
+    margin-bottom: 20px;
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+.adcamp-app-development .reg-logo, .reg-logo {
+    width: 120px;
+}
+@media (min-width: 1361px) and (max-width: 1460px) {
+    .megamenu {
+        width: 45% !important;
+        left: 20% !important;
+        padding: 0px 25px;
+    }
+}
+@media (min-width: 1101px) and (max-width: 1280px) {
+    .megamenu {
+        width: 45% !important;
+        left: 20% !important;
+    }
+}
+</style>
+<nav class="navbar navbar-expand-lg theme-nav fixed-top smart-scroll">
+        <div class="bg-clo collapsed" data-toggle="collapse" data-target="#mainmenu" aria-expanded="true"></div>
+        <div class="container-fluid container-fluid-h">
+          <div class="logo">
+            <a class="navbar-brand js-scroll-trigger" href="https://www.pyramidions.com/">
+              <picture>
+                <source media="(max-width: 576px)" srcset="https://www.pyramidions.com/webstatic/images/logo-new-425w.webp" width="110" height="51">
+                <img class="reg-logo" src="https://www.pyramidions.com/webstatic/images/logo-new.webp" loading="eager" fetchpriority="high"
+                  alt="pyramidions" width="125" height="58">
+              </picture>
+            </a>
+            <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#mainmenu"
+              title="toggle-button"><span class="navbar-toggler-icon"></span></button>
+          </div>
+          <div class="collapse navbar-collapse menu" id="mainmenu">
+            <button class="navbar-toggler mclose" type="button" data-toggle="collapse" data-target="#mainmenu"
+              aria-expanded="true"><img class="header-close-btn" loading="eager"
+                src="https://res.cloudinary.com/dd4rnu9sf/image/upload/v1658821965/pyramidions/close_jlne39.svg"
+                fetchpriority="high" alt="menu close"></button>
+            <ul class="navbar-nav ms-auto" id="mymenu">
+              <li class="nav-item"><a class="nav-link" href="https://www.pyramidions.com/" title="">Home</a></li>
+              <li class="nav-item dropdown">
+                <span class="ddwon-m" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+                  aria-expanded="false"></span>
+                <a class="nav-link dropdown-toggle" href="https://www.pyramidions.com/solutions">Solutions<span
+                    class="ddwon"></span></a>
+                <div class="dropdown-menu megamenu" aria-labelledby="navbarDropdown">
+                  <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-6 mgpl30">
+                      <p class="mt-4">App Development</p>
+                      <ul class="mega-ul">
+                        <li><img width="22px" alt="Mobile App Development"
+                            src="https://www.pyramidions.com/webstatic/images/mobile-app/menus-icon/mobile-app-development-menu-icon.svg"
+                            ><a href="https://www.pyramidions.com/mobile-app-development-chennai.html">Mobile App
+                            Development</a></li>
+                        <li><img width="22px" alt="Android App Development"
+                            src="https://www.pyramidions.com/webstatic/images/mobile-app/menus-icon/android-app-development-menu-icon.svg"
+                            ><a
+                            href="https://www.pyramidions.com/android-application-development-company-in-chennai.html">Android
+                            App
+                            Development</a></li>
+                        <li><img width="22px" alt="iOS App Development"
+                            src="https://www.pyramidions.com/webstatic/images/mobile-app/menus-icon/ios-app-development-menu-icon.svg"
+                            ><a
+                            href="https://www.pyramidions.com/ios-application-development-company-in-chennai.html">iOS App
+                            Development</a></li>
+                        <li><img width="22px" alt="Flutter App Development"
+                            src="https://www.pyramidions.com/webstatic/images/mobile-app/menus-icon/flutter-app-development-menu-icon.svg"
+                            ><a href="https://www.pyramidions.com/flutter-app-development-company-in-india">Flutter App
+                            Development</a></li>
+                        
+                      </ul>
+                    </div>
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-6 mgpl30">
+                      <p class="mt-4">Blockchain</p>
+                      <ul class="mega-ul">
+                        <li><img width="22px" alt="NFT Marketplace Development"
+                            src="https://www.pyramidions.com/webstatic/images/mobile-app/menus-icon/nft-marketplace-development-menu-icon.svg"
+                            ><a href="https://www.pyramidions.com/mobile-app-development-chennai.html"></a><a
+                            href="https://www.pyramidions.com/nft-marketplace-development">NFT Marketplace
+                            Development</a></li>
+                        <li><img width="22px" alt="Crypto Exchange Development"
+                            src="https://www.pyramidions.com/webstatic/images/mobile-app/menus-icon/crypto-exchange-development-menu-icon.svg"
+                            ><a href="https://www.pyramidions.com/mobile-app-development-chennai.html"></a><a
+                            href="https://www.pyramidions.com/cryptocurrency-exchange-development-company">Crypto
+                            Exchange Development</a></li>
+                        <li><img width="22px" alt="ICO Development Services"
+                            src="https://www.pyramidions.com/webstatic/images/mobile-app/menus-icon/ico-development-service-menu-icon.svg"
+                            ><a href="https://www.pyramidions.com/mobile-app-development-chennai.html"></a><a
+                            href="https://www.pyramidions.com/ico-development-services">ICO Development Services</a>
+                        </li>
+                        <li><img width="22px" alt="Smart Contract Development"
+                            src="https://www.pyramidions.com/webstatic/images/mobile-app/menus-icon/smart-contract-development-menu-icon.svg"
+                            ><a href="https://www.pyramidions.com/mobile-app-development-chennai.html"></a><a
+                            href="https://www.pyramidions.com/smart-contract-development">Smart Contract
+                            Development</a></li>
+                        <li><img width="22px" alt="DeFi Development & Solutions"
+                            src="https://www.pyramidions.com/webstatic/images/mobile-app/menus-icon/defi-development-service-menu-icon.svg"
+                            ><a href="https://www.pyramidions.com/mobile-app-development-chennai.html"></a><a
+                            href="https://www.pyramidions.com/defi-development-company">DeFi Development
+                            & Solutions</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li class="nav-item"><a class="nav-link" href="https://www.pyramidions.com/about" title="">About</a></li>
+              <li class="nav-item"><a class="nav-link" href="https://www.pyramidions.com/case-studies" title="">Our
+                  Work</a></li>
+              <li class="nav-item"><a class="nav-link" href="https://www.pyramidions.com/culture" title="">Culture</a>
+              </li>
+              <li class="nav-item"><a class="nav-link" href="https://www.pyramidions.com/careers" title="">Careers</a>
+              </li>
+              <li class="nav-item"><a class="nav-link" href="https://www.pyramidions.com/e-books" title="">Ebooks</a>
+              </li>
+              <li class="nav-item"><a class="nav-link" href="https://www.pyramidions.com/blogs/" title="">Blogs</a></li>
+              <li class="nav-item"><a class="nav-link cont-btn" href="https://www.pyramidions.com/contact"
+                  title="">Contact us</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>

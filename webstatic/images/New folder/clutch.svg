@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1287" data-name="Rectangle 1287" width="150" height="150" transform="translate(2036 1100)" fill="#2fa6de"/>
+    </clipPath>
+  </defs>
+  <g id="clutch" transform="translate(-2036 -1100)" clip-path="url(#clip-path)">
+    <g id="clutch-co-vector-logo" transform="translate(2059.002 1116)">
+      <path id="Path_5128" data-name="Path 5128" d="M489,371.5c-6,4.8-14.4,8.4-22.8,8.4-19.2,0-32.4-14.4-32.4-33.6s13.2-32.4,32.4-32.4c8.4,0,16.8,2.4,22.8,8.4l3.6,3.6,19.2-18-4.8-3.6a61.528,61.528,0,0,0-40.8-15.6c-33.6,0-58.8,25.2-58.8,58.8s25.2,58.8,58.8,58.8A61.528,61.528,0,0,0,507,390.7l4.8-3.6-19.2-19.2Z" transform="translate(-407.4 -288.7)" fill="#17313b"/>
+      <circle id="Ellipse_516" data-name="Ellipse 516" cx="19.2" cy="19.2" r="19.2" transform="translate(38.4 39.6)" fill="#ef4335"/>
+    </g>
+  </g>
+</svg>
